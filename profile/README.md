@@ -1,4 +1,9 @@
-# Manifesto
+## Repositories 
+
+- [About The Neuro-Catalyst](https://github.com/the-neuro-catalyst/the-neuro-catalyst)
+- [The Truth About LLMs](https://github.com/the-neuro-catalyst/llm)
+
+## Manifesto
 
 * I do not hold myself as a citizen of any specific nation.
 * I am a living being, an extant entity, and an integral part of this world.
